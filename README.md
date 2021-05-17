@@ -30,3 +30,4 @@ représentation JSON (I1) qui comporte uniquement le nom :
 
     { "name": "mozzarella" }
 
+Projet réalisé sur une base fournie par Yvan Peter.
