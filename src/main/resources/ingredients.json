@@ -1,0 +1,14 @@
+[
+{ "id": "f38806a8-7c85-49ef-980c-149dcd81d306", "name": "mozzarella"},
+{ "id": "d36903e1-0cc0-4bd6-a0ed-e0e9bf7b4037", "name": "jambon"},
+{ "id": "bc5b315f-442f-4ee4-96de-486d48f20c2f", "name": "champignons"},
+{ "id": "6a04320c-3a4f-4570-96d3-61faf3f898b0", "name": "olives"},
+{ "id": "c77deeee-d50d-49d5-9695-c98ec811f762", "name": "tomate"},
+{ "id": "c9375542-8142-43f6-b54d-0d63597cf614", "name": "merguez"},
+{ "id": "dee27dd6-f9b6-4d03-ac4b-216b5c9c8bd7", "name": "lardons"},
+{ "id": "657f8dd4-6bc1-4622-9af7-37d248846a23", "name": "fromage"},
+{ "id": "070d8077-a713-49a0-af37-3936b63d5ff2", "name": "oeuf"},
+{ "id": "5d9ca5c4-517f-40fd-aac3-5a823d680c1d", "name": "poivrons"},
+{ "id": "52f68024-24ec-46c0-8e77-c499dba1e27e", "name": "ananas"},
+{ "id": "dfdf6fae-f1b2-45fa-8c39-54e522c1933f", "name": "reblochon"}
+]
